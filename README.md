@@ -1,6 +1,6 @@
 In this demo I try to guess if someone's income is below $50k or above $50k by training non-linear ML models on some data. I load a train and test TSV and train Logistic regression, random forest, gradiant boosted trees and a neural network (PyTorch) on the data. Data Visualizations are done in Tableau and data processing is done in PySpark.
 
-#Analysis of Training data
+# Analysis of Training data
 
 ##Income (Target Variable)
 
